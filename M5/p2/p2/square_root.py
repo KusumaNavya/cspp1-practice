@@ -1,4 +1,4 @@
-"""perfect_cube"""
+"""perfect_square"""
 def main():
     """your code here"""
     square = int(input())
