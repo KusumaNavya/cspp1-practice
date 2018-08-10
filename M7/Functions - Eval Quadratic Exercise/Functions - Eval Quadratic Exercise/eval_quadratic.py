@@ -20,5 +20,5 @@ def main():
             data[x] = data[x]
     print(evalQuadratic(data[0],data[1],data[2],data[3]))
 
-if __name__== "__main__":
+if __name__ == "__main__":
     main()
